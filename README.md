@@ -2,7 +2,7 @@
 
 Theme inspired by Nintendo DS interface elements.
 
-
+## Light Theme
 
 ![screenshot](/Screenshots/main_menu.png)
 
