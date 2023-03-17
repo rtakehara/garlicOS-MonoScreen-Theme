@@ -1,0 +1,13 @@
+{
+	"iso-code": "en_us",	
+	"font": "font.ttf",
+	"text-alignment": "left",
+	"text-margin": 352,
+	"color-guide": "#8F8F8F",
+	"color-inactive": "#AAAAAA",
+	"color-active": "#CC0000",
+	"color-favorite-inactive": "#E7E7E7",
+	"color-favorite-active": "#CC0000",
+	"empty-label": "Nothing to see here! Move along!",
+	"savestates-unsupported": "This core doesn't support savestates!"
+}
