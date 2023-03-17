@@ -25,6 +25,6 @@
 	"day-label": "DD",
 	"hour-label": "HH",
 	"minute-label": "MM",
-	"meridian-time-label": "MT",
+	"meridian-time-label": "AM/PM",
 	"title-label": "GarlicOS %s"
 }
