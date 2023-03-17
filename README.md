@@ -2,7 +2,7 @@
 
 Theme inspired by Nintendo DS interface elements. Now with a dark theme.
 
-![screenshot](/Screenshots/ligh_and_dark.png)
+![screenshot](/Screenshots/light_and_dark.png)
 
 # How to Install
 
