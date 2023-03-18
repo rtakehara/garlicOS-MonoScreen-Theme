@@ -2,7 +2,7 @@
 	"iso-code": "en_us",	
 	"font": "font.ttf",
 	"text-alignment": "left",
-	"text-margin": 352,
+	"text-margin": 340,
 	"color-guide": "#232323",
 	"color-inactive": "#808080",
 	"color-active": "#00467E",

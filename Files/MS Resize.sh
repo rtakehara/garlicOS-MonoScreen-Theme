@@ -1,0 +1,1 @@
+magick mogrify -resize 310x360 -extent 320x370 -gravity West -background none -resize 320x370 -extent 640x480 -gravity Center -background none *
