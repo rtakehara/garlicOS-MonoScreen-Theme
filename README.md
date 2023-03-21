@@ -1,6 +1,6 @@
 # MonoScreen Theme for GarlicOS
 
-Theme for GarlicOS (version 1.3.2) inspired by Nintendo DS interface elements. Now with a variant dark theme.
+Theme for [GarlicOS](https://www.patreon.com/posts/garlicos-for-76561333) (version 1.3.2) inspired by Nintendo DS interface elements. Now with a variant dark theme.
 
 ![screenshot](/Screenshots/light_and_dark.png)
 
