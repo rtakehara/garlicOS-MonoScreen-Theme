@@ -1,8 +1,8 @@
 {
 	"iso-code": "de",
 	"font": "font.ttf",
-	"font-size": 28,
-	"button-guide-font-size": 28,
+	"font-size": 30,
+	"button-guide-font-size": 30,
 	"recent-label": "~",
 	"favorites-label": "~",
 	"consoles-label": "~",
@@ -14,7 +14,7 @@
 	"back-label": "Zurück",
 	"favorite-label": "Favorisieren",
 	"remove-label": "Entfernen",
-	"empty-label": "Hier gibt es nichts zu sehen.",
+	"empty-label": "Hier gibt es nichts zu sehen!",
 	"savestates-unsupported": "Dieser Kern unterstützt keine Speicherstände!",
 	"on-label": "EIN",
 	"off-label": "AUS",
@@ -25,6 +25,6 @@
 	"day-label": "DD",
 	"hour-label": "HH",
 	"minute-label": "MM",
-	"meridian-time-label": "AM/PM",
+	"meridian-time-label": "MT",
 	"title-label": "GarlicOS %s"
 }

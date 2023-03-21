@@ -1,8 +1,8 @@
 {
 	"iso-code": "en_us",	
 	"font": "font.ttf",
-	"text-alignment": "center",
-	"text-margin": 16,
+	"text-alignment": "left",
+	"text-margin": 230,
 	"color-guide": "#232323",
 	"color-inactive": "#808080",
 	"color-active": "#00467E",
