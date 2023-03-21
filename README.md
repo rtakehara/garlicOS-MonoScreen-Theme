@@ -6,7 +6,7 @@ Theme for GarlicOS (version 1.3.2) inspired by Nintendo DS interface elements. N
 
 # How to Install
 
-Download the theme of choice (MonoScreen Light or MonoScreen Dark) from the [latest release](/releases), then, in the main SD card where GarlicOS is installed, replace the `boot_logo.bmp.gz` in the "MISC" partition, and the `CFW` folder in the "ROMS" partition.
+Download the theme of choice (MonoScreen Light or MonoScreen Dark) from the [latest release](https://github.com/rtakehara/garlicOS-MonoScreen-Theme/releases), then, in the main SD card where GarlicOS is installed, replace the `boot_logo.bmp.gz` in the "MISC" partition, and the `CFW` folder in the "ROMS" partition.
 
 ## Retroarch Theme
 
