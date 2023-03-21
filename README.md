@@ -39,3 +39,5 @@ Given the font choice, this theme do not support some languages. The included la
 - Spanish
 
 The included languages from the default GarlicOS installation will still work but won't align perfetly, also some words in french and german are too long and wont fit in the screen properly.
+
+The theme also does not include system images, I made small edits in the default ones [here](https://github.com/rtakehara/garlicOS-MonoScreen-Theme/tree/main/Systems), but they are simply the same images with a background and the system name, feel free to use them or don't.
