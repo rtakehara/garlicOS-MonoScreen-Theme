@@ -37,3 +37,5 @@ Given the font choice, this theme do not support some languages. The included la
 - Brazilian Portuguese
 - European Portuguese
 - Spanish
+
+The included languages from the default GarlicOS installation will still work but won't align perfetly, also some words in french and german are too long and wont fit in the screen properly.
